@@ -1,0 +1,11 @@
+{
+  "mods": [
+    {
+      "name": "moderator-menu",
+      "description": "Adds a menu for easier moderation (admin perms on server required)",
+      "author": "aragasu",
+      "version": "1.0.0",
+      "source": "https://aragasu.github.io/moderator-menu-for-vendetta/modmenu.js"
+    }
+  ]
+}
